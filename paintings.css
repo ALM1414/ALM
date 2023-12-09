@@ -181,6 +181,14 @@ height: 65vh;
 text-align: center;
 }
 
+.seziona {
+margin-top:2%;
+margin-bottom:5%;
+height: 100%;
+width: 65vh;
+text-align: center;
+}
+
 #blocco {
 height: 95%;
 width: auto;
