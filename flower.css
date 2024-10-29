@@ -17,7 +17,7 @@ transition-property: background; }
 
 .header {
 background-color: rgba(245,245,245,0);
-margin-top: 1.2%;
+margin-top: 1.5%;
 min-height: auto;
 display: flex;
 flex-direction: row;
@@ -65,7 +65,7 @@ margin-top: 1.2%;
 min-height: auto;
 display: flex;
 flex-direction: row;
-justify content: space-between;
+justify-content: space-between;
 position: relative;
 width: 100%;
 top: 0;
@@ -90,7 +90,7 @@ z-index: 99;
 color: rgb(2,2,2);
 cursor: pointer;
 font-family: 'Montserrat', sans-serif;
-font-size: 35px;
+font-size: 40px;
 font-style: normal;
 font-weight: 250;
 line-height: auto;
@@ -168,7 +168,7 @@ z-index: 99;
 color: rgb(2,2,2);
 cursor: pointer;
 font-family: 'Montserrat', sans-serif;
-font-size: 35px;
+font-size: 40px;
 font-style: normal;
 font-weight: 250;
 line-height: auto;
